@@ -1,3 +1,10 @@
 # LUV-EASON
 Henny
-so pull me toghter
+
+存放指纹识别门禁系统
+{
+  1.基本识别
+  2.自定义数组密码锁（不实用）
+  3.基于wallpaper的人机交互串口屏
+  4.蓝牙控制
+}
